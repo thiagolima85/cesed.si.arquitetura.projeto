@@ -47,6 +47,12 @@
     <Folder Include="EntityConfig\" />
     <Folder Include="Repositorios\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\cesed.si.dotnet.projeto.dominio\cesed.si.dotnet.projeto.dominio.csproj">
+      <Project>{6d49717f-6450-47f8-93a8-554f09110e9d}</Project>
+      <Name>cesed.si.dotnet.projeto.dominio</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
