@@ -1,4 +1,4 @@
-﻿
+﻿using System.Collections.Generic;
 
 namespace cesed.si.dotnet.projeto.dominio.Entidades
 {
@@ -6,9 +6,11 @@ namespace cesed.si.dotnet.projeto.dominio.Entidades
     {
         public int UsuarioId { get; set; }
 
-        public string Nome { get; set; }
+        public string UsuarioNome { get; set; }
 
         public string Email { get; set; }
-        
+
+        public IEnumerable<Atividade> Atividades { get; set; }
+
     }
 }

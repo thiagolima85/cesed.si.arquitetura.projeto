@@ -49,12 +49,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Contexto\Contexto.cs" />
+    <Compile Include="DBContext\Contexto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositorios\AtividadeRepository.cs" />
+    <Compile Include="Repositorios\RepositoryBase.cs" />
+    <Compile Include="Repositorios\UsuarioRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="EntityConfig\" />
-    <Folder Include="Repositorios\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\cesed.si.dotnet.projeto.dominio\cesed.si.dotnet.projeto.dominio.csproj">
