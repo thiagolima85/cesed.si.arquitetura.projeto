@@ -1,0 +1,63 @@
+﻿@model IEnumerable<cesed.si.dotnet.projeto.mvc.ViewsModels.AtividadeViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AtividadeNome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Local)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataInicio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoDeAtividade)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </th>
+        <th>
+            @Html.DisplayName("Usuario")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AtividadeNome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Local)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataInicio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoDeAtividade)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Usuario.UsuarioNome)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.AtividadeId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.AtividadeId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.AtividadeId })
+        </td>
+    </tr>
+}
+
+</table>

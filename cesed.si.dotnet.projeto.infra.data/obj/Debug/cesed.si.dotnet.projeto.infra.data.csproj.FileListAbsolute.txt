@@ -1,0 +1,12 @@
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.infra.data\bin\Debug\cesed.si.dotnet.projeto.infra.data.dll.config
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.infra.data\bin\Debug\cesed.si.dotnet.projeto.infra.data.dll
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.infra.data\bin\Debug\cesed.si.dotnet.projeto.infra.data.pdb
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.infra.data\bin\Debug\cesed.si.dotnet.projeto.dominio.dll
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.infra.data\bin\Debug\EntityFramework.dll
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.infra.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.infra.data\bin\Debug\cesed.si.dotnet.projeto.dominio.pdb
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.infra.data\bin\Debug\EntityFramework.xml
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.infra.data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.infra.data\obj\Debug\cesed.si.dotnet.projeto.infra.data.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.infra.data\obj\Debug\cesed.si.dotnet.projeto.infra.data.dll
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.infra.data\obj\Debug\cesed.si.dotnet.projeto.infra.data.pdb

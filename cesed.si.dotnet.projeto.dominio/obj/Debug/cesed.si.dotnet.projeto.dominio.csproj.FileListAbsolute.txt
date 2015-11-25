@@ -1,0 +1,5 @@
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.dominio\bin\Debug\cesed.si.dotnet.projeto.dominio.dll
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.dominio\bin\Debug\cesed.si.dotnet.projeto.dominio.pdb
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.dominio\obj\Debug\cesed.si.dotnet.projeto.dominio.dll
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.dominio\obj\Debug\cesed.si.dotnet.projeto.dominio.pdb
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.dominio\obj\Debug\cesed.si.dotnet.projeto.dominio.csprojResolveAssemblyReference.cache

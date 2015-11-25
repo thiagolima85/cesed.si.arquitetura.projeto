@@ -10,7 +10,7 @@ namespace cesed.si.dotnet.projeto.infra.data.Repositorios
     {
         public IEnumerable<Atividade> BuscarPorNome(string nome)
         {
-            return Db.Atividades.Where(p => p.Nome == nome);
+            return Db.Atividades.Where(p => p.AtividadeNome == nome);
         }
     }
 }

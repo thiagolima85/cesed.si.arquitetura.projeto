@@ -1,0 +1,7 @@
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.aplicacao\bin\Debug\cesed.si.dotnet.projeto.aplicacao.dll
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.aplicacao\bin\Debug\cesed.si.dotnet.projeto.aplicacao.pdb
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.aplicacao\bin\Debug\cesed.si.dotnet.projeto.dominio.dll
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.aplicacao\bin\Debug\cesed.si.dotnet.projeto.dominio.pdb
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.aplicacao\obj\Debug\cesed.si.dotnet.projeto.aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.aplicacao\obj\Debug\cesed.si.dotnet.projeto.aplicacao.dll
+C:\Users\Thiago\Documents\GitHub\cesed.si.arquitetura.projeto\cesed.si.dotnet.projeto.aplicacao\obj\Debug\cesed.si.dotnet.projeto.aplicacao.pdb
